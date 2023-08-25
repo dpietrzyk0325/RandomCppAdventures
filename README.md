@@ -18,5 +18,5 @@ Reference the [following](https://code.visualstudio.com/docs/languages/cpp).
 - GitHub Pull Requests and Issues by GitHub
 - Markdown Preview Enhanced by Yiyi Wang
 
-- Lookie what we have here.. the Professional Programmer on his random lil cpp adventures.
-- I warn thy .. tis a scary place. HORROR!!
+Lookie what we have here.. the Professional Programmer on his random lil cpp adventures.
+I warn thy .. tis a scary place. HORROR!!
