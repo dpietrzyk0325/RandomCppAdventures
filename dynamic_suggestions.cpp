@@ -9,6 +9,7 @@
 */
 
 #include <iostream> // this thing is needed for input and output (incase you didn't already know) :P
+#include <string> // include this if you get error: namespace "std" has no member "getline"
 
 // start of the program execution
 int main()
