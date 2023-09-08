@@ -9,6 +9,7 @@
 */
 
 #include <iostream> // this thing is needed for input and output (incase you didn't already know) :P
+#include <string> // this thing is needed if std::getline isn't working
 
 // start of the program execution
 int main()
