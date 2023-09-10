@@ -175,6 +175,7 @@ int main()
     a.getName();
     c.getName();
 
+    // We cannot create an object of an abstract class, but we can create a pointer of the abstract class
     Database *ptr = nullptr;
     Manager m2;
     ptr=&m2;
