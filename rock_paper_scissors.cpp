@@ -17,7 +17,7 @@ void setSelection(Player &player, char selection);
 
 /*  
     Author: Dawid Pietrzyk
-    Date Created: 
+    Date Created: September 10 2023 (DD-MM-YYYY)
     Input: Structure variable of type Player
     Output: The name member of the input structure variable of type Player  
 */
@@ -27,7 +27,7 @@ std::string getSelection(Player player){
 
 /*  
     Author: Dawid Pietrzyk
-    Date Created: 
+    Date Created: September 10 2023 (DD-MM-YYYY)
     Input: Structure variable of type Player, and character variable containing the selection
     Output: None (void) 
 */
