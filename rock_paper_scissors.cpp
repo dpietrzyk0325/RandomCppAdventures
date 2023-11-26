@@ -1,5 +1,7 @@
 #include <iostream>
 
+// TODO: finish this program some day in the future (probably never) :D
+
 // Struct Player
 struct Player
 {
