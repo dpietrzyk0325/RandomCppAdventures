@@ -3,11 +3,23 @@
 // TODO: finish this program some day in the future (probably never) :D
 
 // Struct Player
+
+// this should probably be a class instead of a struct
 struct Player
 {
     // members
     std::string name; // used for the name of the player
     char selection; // used for setting a selection
+
+    // did you know that you can have a constructor for a struct? :D
+    // thank you you C++
+
+    // constructor
+    Player()
+    {
+        name = "Player";
+        selection = ' ';
+    }
 };
 
 // function prototypes
